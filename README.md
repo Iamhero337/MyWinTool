@@ -1,10 +1,10 @@
 # MyWinTool
-This repo is for there are some good tips and trick to follow in Windows os.
+This repo is for there are some good tips and tricks to follow in Windows OS.
 
-To stop Windows OS from spying on you.(It will also clean new tab page in edge browser)
+To stop Windows OS from spying on you. (It will also clean a new tab page in Edge browser)
 
-1. Serach notepad and then run it as Admin
-2. Go to File section and select open then
+1. Search notepad and then run it as Admin
+2. Go to the File section and select open then
 3. Select your pc->C:/Windows/System32/drivers/etc
 4. in the current window select Display All files
 5. then the hosts will be visible, select it.
@@ -26,10 +26,10 @@ To stop Windows OS from spying on you.(It will also clean new tab page in edge b
 
 
 
-If you want to debloat the Windows OS then paste this command in powershell which should be opend as admin
+If you want to debloat the Windows OS then paste this command in Powershell which should be opened as admin
 
 Paste_this
 
 iwr -useb https://christitus.com/win | iex
 
-Then a easy pop up will appear and you can do many things there.
+Then an easy pop-up will appear and you can do many things there.
